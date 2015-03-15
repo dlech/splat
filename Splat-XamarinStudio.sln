@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Splat-XamarinIOS", "Splat\S
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Splat-XamarinMac", "Splat\Splat-XamarinMac.csproj", "{990825BE-73ED-4A31-9178-B88119A72F61}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Splat-Gdk", "Splat\Splat-Gdk.csproj", "{B122455F-BC56-48AC-81B1-2325522CFB70}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -35,6 +37,10 @@ Global
 		{990825BE-73ED-4A31-9178-B88119A72F61}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{990825BE-73ED-4A31-9178-B88119A72F61}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{990825BE-73ED-4A31-9178-B88119A72F61}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B122455F-BC56-48AC-81B1-2325522CFB70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B122455F-BC56-48AC-81B1-2325522CFB70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B122455F-BC56-48AC-81B1-2325522CFB70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B122455F-BC56-48AC-81B1-2325522CFB70}.Release|Any CPU.Build.0 = Release|Any CPU
 		{E429F061-65F1-4B17-A122-F6115840D56D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{E429F061-65F1-4B17-A122-F6115840D56D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E429F061-65F1-4B17-A122-F6115840D56D}.Release|Any CPU.ActiveCfg = Release|Any CPU
