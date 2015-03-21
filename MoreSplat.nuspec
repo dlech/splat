@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+    <metadata>
+        <id>MoreSplat</id>
+        <version>1.6.1</version>
+        <authors>David Lechner, Paul Betts</authors>
+        <licenseUrl>https://github.com/dlech/splat/blob/master/COPYING</licenseUrl>
+        <projectUrl>https://github.com/dlech/splat</projectUrl>
+        <requireLicenseAcceptance>false</requireLicenseAcceptance>
+        <description>
+            Provides support for even more platforms for Splat.
+            * MonoMac (unsupported open source version)
+            * Gtk#3
+        </description>
+        <summary>A library to make things cross-platform that should be</summary>
+        <tags>portable</tags>
+    </metadata>
+    <files>
+        <file src="Splat/bin/Release/**/Splat*" target="lib" />
+    </files>
+</package>

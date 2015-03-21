@@ -1,0 +1,60 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Splat-monomac", "Splat\Splat-monomac.csproj", "{8CE5C2C0-B526-4CEE-8DDC-29917E38CCD5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Splat-Portable", "Splat\Splat-Portable.csproj", "{0EC8DBA1-D745-4EE5-993A-6026440EC3BF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Splat-Gdk", "Splat\Splat-Gdk.csproj", "{B122455F-BC56-48AC-81B1-2325522CFB70}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0EC8DBA1-D745-4EE5-993A-6026440EC3BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EC8DBA1-D745-4EE5-993A-6026440EC3BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EC8DBA1-D745-4EE5-993A-6026440EC3BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EC8DBA1-D745-4EE5-993A-6026440EC3BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8CE5C2C0-B526-4CEE-8DDC-29917E38CCD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CE5C2C0-B526-4CEE-8DDC-29917E38CCD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CE5C2C0-B526-4CEE-8DDC-29917E38CCD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CE5C2C0-B526-4CEE-8DDC-29917E38CCD5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B122455F-BC56-48AC-81B1-2325522CFB70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B122455F-BC56-48AC-81B1-2325522CFB70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B122455F-BC56-48AC-81B1-2325522CFB70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B122455F-BC56-48AC-81B1-2325522CFB70}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		Policies = $0
+		$0.TextStylePolicy = $1
+		$1.FileWidth = 120
+		$1.inheritsSet = VisualStudio
+		$1.inheritsScope = text/plain
+		$1.scope = text/plain
+		$0.CSharpFormattingPolicy = $2
+		$2.AutoPropertyFormatting = ForceOneLine
+		$2.IndentPreprocessorDirectives = False
+		$2.PropertyBraceStyle = NextLine
+		$2.EventBraceStyle = NextLine
+		$2.EmbeddedStatementPlacement = SameLine
+		$2.ArrayInitializerBraceStyle = NextLine
+		$2.BeforeMethodDeclarationParentheses = False
+		$2.BeforeMethodCallParentheses = False
+		$2.BeforeConstructorDeclarationParentheses = False
+		$2.BeforeIndexerDeclarationBracket = False
+		$2.BeforeDelegateDeclarationParentheses = False
+		$2.AfterDelegateDeclarationParameterComma = True
+		$2.NewParentheses = False
+		$2.SpacesBeforeBrackets = False
+		$2.AlignToFirstMethodDeclarationParameter = False
+		$2.AlignToFirstIndexerDeclarationParameter = False
+		$2.inheritsSet = Mono
+		$2.inheritsScope = text/x-csharp
+		$2.scope = text/x-csharp
+		$0.TextStylePolicy = $3
+		$3.inheritsSet = null
+		$3.scope = text/x-csharp
+	EndGlobalSection
+EndGlobal
